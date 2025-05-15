@@ -1,0 +1,13 @@
+{
+  "name": "foundry-debug-cli",
+  "version": "1.0.0",
+  "description": "Debug your Foundry scripts with styled console output.",
+  "main": "debug.js",
+  "scripts": {
+    "dev-debug": "node debug.mjs"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "shelljs": "^0.8.5"
+  }
+}
